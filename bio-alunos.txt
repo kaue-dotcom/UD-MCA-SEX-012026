@@ -25,3 +25,11 @@ Semestre: 5
 Bairro: Cidade Tiradentes
 Trabalha: Sim
 Objetivo: Me tornar um desenvolvedor Full Stack.
+
+Nome: Vinicius Iandoli Diogo
+RA: 824137431 
+Curso: Engenharia de Software
+Semestre: 5
+Bairro: Vila Formosa
+Trabalha: Sim
+Objetivo: Me tornar um desenvolvedor Full Stack.
