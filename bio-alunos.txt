@@ -5,3 +5,4 @@ Semestre: 4
 Bairro: Vila Ema
 Trabalha: Sim, sou desenvolvedor Front-end Pleno
 Objetivo: Me tornar um desenvolvedor Full Stack.
+
