@@ -33,3 +33,12 @@ Semestre: 5
 Bairro: Vila Formosa
 Trabalha: Sim
 Objetivo: Me tornar um desenvolvedor Full Stack.
+
+Nome: César Melo Ribeiro
+RA: 82413280
+Curso: Engenharia de Software
+Semestre: 5
+Bairro: Vila Formosa
+Trabalha: Sim
+Objetivo: Me tornar um desenvolvedor Full Stack.
+
