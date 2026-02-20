@@ -53,4 +53,12 @@ Bairro: Parque São Rafael
 Trabalha: Sim, sou estágiaria na área de infraestrutura 
 Objetivo: Me especializar na área de cybersecurity.
 
----
+-------
+
+Nome: Kaio Ghesa
+RA: 824114192
+Curso: Engenharia de Software
+Semestre: 5
+Bairro: Sapopemba
+Trabalha: Sim, analista de cyber segurança
+Objetivo: Me especializar na área de cyber
