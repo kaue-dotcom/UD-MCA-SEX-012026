@@ -1,0 +1,104 @@
+
+body{
+    font-family: Arial, Verdana, sans-serif;
+    background:#fafafa;
+    margin:0;
+    color:#333;
+}
+
+
+main{
+    max-width:900px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+/* Header */
+
+header{
+    text-align:center;
+    padding:40px 20px;
+}
+
+header h1{
+    color:#6a0dad;
+    margin-bottom:5px;
+}
+
+/* Seções */
+
+section{
+    background:white;
+    padding:25px;
+    margin-bottom:25px;
+    border-radius:12px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.05);
+}
+
+/* Títulos */
+
+h2{
+    color:#6a0dad;
+    margin-bottom:15px;
+}
+
+/* Perfil */
+
+.perfil{
+    display:flex;
+    align-items:center;
+    gap:25px;
+}
+
+.perfil img{
+    width:120px;
+    border-radius:50%;
+    border:3px solid #6a0dad;
+}
+
+/* Cards */
+
+.cards{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.card{
+    padding:12px 20px;
+    border-radius:8px;
+    border:1px solid #eee;
+    background:#fafafa;
+    transition:0.3s;
+}
+
+/* Hover bonito */
+
+.card:hover{
+    transform:scale(1.08);
+    background:#f3e8ff;
+    border-color:#6a0dad;
+}
+
+
+/* Links */
+
+a{
+    text-decoration:none;
+    color:#6a0dad;
+    font-weight:bold;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+/* Footer */
+
+footer{
+    text-align:center;
+    padding:30px;
+    font-size:14px;
+    color:#777;
+}
+
